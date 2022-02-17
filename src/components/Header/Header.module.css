@@ -1,0 +1,45 @@
+.header {
+    width: 90%;
+    height: 50px;
+    display: flex;
+    margin: auto;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.542);
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hepsiburada {
+    font-size: 1.8rem;
+    color: #acacac;
+    font-weight: bold;
+}
+
+.com {
+    font-size: 1.8rem;
+    color: rgb(61, 61, 61);
+    font-weight: bold;
+}
+
+.titleLeft,
+.titleRight {
+    display: flex;
+    align-items: flex-end;
+}
+
+.link {
+    font-size: 1.3rem;
+    color: black;
+    font-weight: bold;
+}
+
+.vote {
+    font-size: 1.3rem;
+    color: #acacac;
+}
+
+.challange {
+    font-size: 1.3rem;
+    color: rgb(55, 55, 55);
+    font-weight: 400;
+    margin-left: .3rem;
+}
